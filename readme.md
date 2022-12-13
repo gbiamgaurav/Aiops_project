@@ -27,6 +27,10 @@
 
 `pip freeze > requirements.txt`
 
+### Install jupyter lab
+
+`pip install jupyter lab`
+
 ### Install requirements
 
 `pip install -r requirements.txt`
