@@ -1,4 +1,5 @@
-venv
-aiops_pipeline_artifact
-aiops_pipeline_metadata
+*venv
+*aiops_pipeline_metadata
+*aiops_pipeline_artifact
+
 
